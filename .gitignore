@@ -7,8 +7,10 @@ __pycache__/
 
 # Raw/processed data folders
 data/raw/
-data/processed/
+# data/processed/
 
 # Virtual env / dotenv
 venv/
 .env
+data/processed/*
+!data/processed/m18_full_indicator_dataset.csv
