@@ -16,3 +16,5 @@ data/processed/*
 !data/processed/m18_full_indicator_dataset.csv
 
 !data/processed/breakout_events_no_outliers.csv
+
+!data/processed/*.csv
