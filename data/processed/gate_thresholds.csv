@@ -1,3 +1,4 @@
 indicator,signal,threshold
-ema_pct__b_ema5_pct_+3,entry,-0.10068468116014544
-ema_pct__p_ema5_pct_+2,exit,-0.06644352711512215
+ema_pct__b_ema5_pct_+3,entry,-0.1006846811601454
+ema_pct__p_ema5_pct_+2,exit,-0.0664435271151221
+time_stop,hard_stop,3.0
